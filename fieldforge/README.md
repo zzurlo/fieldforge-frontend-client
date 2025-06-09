@@ -1,6 +1,6 @@
-# My React App
+# FieldForge
 
-This is a React application created using Create React App with TypeScript. The project structure is organized into several folders to maintain a clean and modular codebase.
+This is the frontend for FieldForge, a SaaS application for Field services technicians.
 
 ## Project Structure
 
@@ -51,11 +51,3 @@ To get started with the application, follow these steps:
    ```
    npm test
    ```
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
-
-## License
-
-This project is licensed under the MIT License.
